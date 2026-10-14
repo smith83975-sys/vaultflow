@@ -1,4 +1,4 @@
 { "redirects": [
-  { "source": "/", "destination": "https://vaultpulse-weld.vercel.app/flow.html", "permanent": true },
-  { "source": "/:path*", "destination": "https://vaultpulse-weld.vercel.app/flow.html", "permanent": true }
+  { "source": "/", "destination": "https://vaultpulsehq.com/flow.html", "permanent": true },
+  { "source": "/:path*", "destination": "https://vaultpulsehq.com/flow.html", "permanent": true }
 ] }
